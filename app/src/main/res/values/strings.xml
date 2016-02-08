@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cuadros de Dialogo</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="dialog_message">Mi mensaje</string>
+    <string name="dialog_title">Mi titutlo</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancelar</string>
+    <string name="hint_ed_dialog">nuevo texto</string>
+
+</resources>
